@@ -1,6 +1,6 @@
 # Тестирование мобильных приложений
 В рамках тестирования мобильного приложение "shopping-list" были созданы чек-листы,тест-кейсы и отчет по результатам тестирования. Для тестирования приложения использовался эмулятор Android Studio.
-Так же, был проведен перехват и изменение трафика в Charles Proxy приложения [Интернет-магазин](https://qa.demoshopping.ru/) c использованием эмулятора Xcode Simulator и браузера Google Crome.
+Так же, был проведен перехват и изменение трафика в Charles Proxy приложения [Интернет-магазин](https://qa.demoshopping.ru/) c использованием эмулятора Xcode Simulator.
 
 [Чек-лист для мобильного приложения](https://docs.google.com/spreadsheets/d/11Z9LRZGha8J7XZbUxBXJpZ1KO3XXqH6YIbDPdypPsc4/edit?usp=sharing)  
 
